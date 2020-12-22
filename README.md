@@ -1,0 +1,2 @@
+# image_search
+pytorch框架下使用imagenet的pretrained model提取特征，使用该特征进行图像检索。
